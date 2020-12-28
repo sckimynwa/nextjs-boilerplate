@@ -1,1 +1,9 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+# Nextjs Boilerplate
+
+Nextjs + Typescript Settings
+
+```
+yarn install // to Install Dependencies
+
+yarn dev // to Start Server (Default port: 3000)
+```
